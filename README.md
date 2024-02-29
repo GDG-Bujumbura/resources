@@ -1,2 +1,136 @@
-# resources
-Tech Resources
+# Tech Resources Masterclass - Impamba by [Yaga](https://www.yaga-burundi.com/)
+
+### Description:
+This repository contains a curated list of resources for attendees of Impamba: a masterclass on IT, Programming, and Technology. The resources cover a wide range of topics including programming languages, software development methodologies, career paths, and industry insights.
+
+| Category          | Level       | Resource              | Description                                                                                                   | Website                                          |
+|-------------------|-------------|-----------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Frontend         | Beginner    | FreeCodeCamp          | Free online courses covering HTML, CSS, and JavaScript with hands-on coding challenges.                       | [FreeCodeCamp](https://www.freecodecamp.org/)   |
+| Frontend         | Beginner    | Codecademy            | Interactive coding lessons for beginners to learn HTML, CSS, and JavaScript.                                   | [Codecademy](https://www.codecademy.com/)       |
+| Frontend         | Intermediate| Udemy                 | Courses covering advanced topics in frontend development such as React, Angular, and Vue.js.                   | [Udemy](https://www.udemy.com/)                 |
+| Frontend         | Intermediate| Mozilla Developer Network | Comprehensive resources for learning web development including tutorials and documentation.                   | [MDN Web Docs](https://developer.mozilla.org/)  |
+| Frontend         | Practice    | CodeWars              | Kata-based coding challenge platform for practicing JavaScript skills.                                          | [CodeWars](https://www.codewars.com/)           |
+| Frontend         | Practice    | Exercism              | Platform for practicing coding exercises in JavaScript with mentorship and feedback.                             | [Exercism](https://exercism.io/)                |
+| Backend          | Beginner    | FreeCodeCamp          | Backend development courses covering Node.js, Express.js, and MongoDB.                                           | [FreeCodeCamp](https://www.freecodecamp.org/)   |
+| Backend          | Beginner    | Coursera              | Online courses in backend development covering databases, APIs, and server-side programming.                   | [Coursera](https://www.coursera.org/)           |
+| Backend          | Intermediate| Udemy                 | Courses covering advanced topics in backend development such as RESTful APIs, GraphQL, and database management.  | [Udemy](https://www.udemy.com/)                 |
+| Backend          | Intermediate| edX                   | Advanced courses in backend development covering cloud computing, microservices, and serverless architecture.    | [edX](https://www.edx.org/)                     |
+| Backend          | Practice    | HackerRank            | Platform for practicing backend development skills through coding challenges in various programming languages. | [HackerRank](https://www.hackerrank.com/)       |
+| Backend          | Practice    | LeetCode              | Platform for practicing coding interview questions including backend-related problems.                           | [LeetCode](https://leetcode.com/)               |
+| DevOps           | Beginner    | Udemy                 | Courses covering basic concepts of DevOps including version control, CI/CD, and containerization.               | [Udemy](https://www.udemy.com/)                 |
+| DevOps           | Intermediate| Coursera              | Online courses in DevOps practices, tools, and methodologies.                                                  | [Coursera](https://www.coursera.org/)           |
+| DevOps           | Practice    | Codecademy            | Interactive exercises on DevOps tools and practices for hands-on learning.                                       | [Codecademy](https://www.codecademy.com/)       |
+| DevOps           | Practice    | Docker                | Platform for practicing containerization and Docker skills through hands-on labs and tutorials.                 | [Docker](https://www.docker.com/)               |
+| Full Stack       | Beginner    | FreeCodeCamp          | Full stack development curriculum covering frontend, backend, and databases.                                    | [FreeCodeCamp](https://www.freecodecamp.org/)   |
+| Full Stack       | Beginner    | Codecademy            | Full stack development path including HTML, CSS, JavaScript, Node.js, and Express.js.                            | [Codecademy](https://www.codecademy.com/)       |
+| Full Stack       | Intermediate| Udemy                 | Courses covering advanced topics in full stack development such as MERN and MEAN stack.                          | [Udemy](https://www.udemy.com/)                 |
+| Full Stack       | Intermediate| edX                   | Advanced courses covering full stack development practices and architectures.                                    | [edX](https://www.edx.org/)                     |
+| Full Stack       | Practice    | GitHub                | Hosting platform for version control and collaboration, essential for full stack development projects.           | [GitHub](https://github.com/)                   |
+| Full Stack       | Practice    | Firebase              | Platform for building and deploying full stack web applications with backend services like authentication.       | [Firebase](https://firebase.google.com/)       |
+| Android          | Beginner    | Udacity               | Android development courses covering basic concepts and building Android apps.                                   | [Udacity](https://www.udacity.com/)             |
+| Android          | Beginner    | Codecademy            | Introduction to Android development with hands-on exercises and projects.                                        | [Codecademy](https://www.codecademy.com/)       |
+| Android          | Intermediate| Coursera              | Online courses covering advanced Android development topics such as Kotlin, architecture patterns, and APIs.     | [Coursera](https://www.coursera.org/)           |
+| Android          | Intermediate| Udemy                 | Courses covering advanced topics in Android development such as app architecture, performance optimization.      | [Udemy](https://www.udemy.com/)                 |
+| Android          | Practice    | LeetCode              | Platform for practicing coding interview questions specifically related to Android development.                  | [LeetCode](https://leetcode.com/)               |
+| Android          | Practice    | HackerRank            | Platform for practicing Android development skills through coding challenges and projects.                      | [HackerRank](https://www.hackerrank.com/)       |
+| PostgreSQL       | Beginner    | PostgreSQL Tutorial  | Comprehensive tutorial covering SQL fundamentals, PostgreSQL installation, and basic database operations.      | [Tutorial](https://www.postgresqltutorial.com/) |
+| PostgreSQL       | Intermediate| PostgreSQL Documentation | Official documentation providing in-depth information on PostgreSQL features, functions, and SQL commands.   | [Documentation](https://www.postgresql.org/docs/) |
+| PostgreSQL       | Advanced    | Udemy                 | Courses covering advanced topics in PostgreSQL such as database administration, optimization, and replication.| [Udemy](https://www.udemy.com/)                 |
+| PostgreSQL       | Advanced    | Pluralsight           | Advanced courses on PostgreSQL database management, optimization, and high availability solutions.              | [Pluralsight](https://www.pluralsight.com/)     |
+| AI and Data Scientist | Beginner | Coursera             | Online courses on machine learning and data science fundamentals including Python programming and statistics.    | [Coursera](https://www.coursera.org/)           |
+| AI and Data Scientist | Beginner | Kaggle               | Platform for learning and practicing machine learning with datasets, competitions, and tutorials.               | [Kaggle](https://www.kaggle.com/)               |
+| AI and Data Scientist | Intermediate| edX               | Advanced courses on machine learning, deep learning, and AI applications.                                         | [edX](https://www.edx.org/)                     |
+| AI and Data Scientist | Intermediate| DataCamp           | Platform for learning data science and analytics through interactive courses and projects.                        | [DataCamp](https://www.datacamp.com/)           |
+| AI and Data Scientist | Practice    | TensorFlow         | Open-source platform for building machine learning models and deep learning neural networks.                      | [TensorFlow](https://www.tensorflow.org/)       |
+| AI and Data Scientist | Practice    | PyTorch            | Open-source deep learning framework for building and training neural networks.                                     | [PyTorch](https://pytorch.org/)                 |
+| Blockchain       | Beginner    | Coursera              | Online courses covering blockchain fundamentals, cryptocurrencies, and smart contracts.                          | [Coursera](https://www.coursera.org/)           |
+| Blockchain       | Beginner    | Udemy                 | Introduction to blockchain technology and cryptocurrency development.                                            | [Udemy](https://www.udemy.com/)                 |
+| Blockchain       | Intermediate| edX                   | Advanced courses on blockchain development, Ethereum, and decentralized applications (dApps).                    | [edX](https://www.edx.org/)                     |
+| Blockchain       | Intermediate| Blockchain.com        | Platform offering educational resources, wallets, and tools for blockchain developers.                            | [Blockchain.com](https://www.blockchain.com/)   |
+| Blockchain       | Practice    | Solidity by Example  | Tutorials and examples for learning Solidity, the programming language for Ethereum smart contracts.             | [Solidity by Example](https://solidity-by-example.org/) |
+| Blockchain       | Practice    | Truffle Suite        | Development framework for building, testing, and deploying Ethereum smart contracts and dApps.                    | [Truffle Suite](https://www.trufflesuite.com/) |
+| QA               | Beginner    | Udemy                 | Courses covering software testing fundamentals, test automation, and QA methodologies.                            | [Udemy](https://www.udemy.com/)                 |
+| QA               | Beginner    | Software Testing Help | Online tutorials and articles covering manual and automation testing, test management, and QA processes.       | [Software Testing Help](https://www.softwaretestinghelp.com/) |
+| QA               | Intermediate| Coursera              | Online courses on advanced software testing topics including test automation frameworks and tools.               | [Coursera](https://www.coursera.org/)           |
+| QA               | Intermediate| TestProject           | Free test automation platform with built-in SDK for web, mobile, and API testing.                                | [TestProject](https://testproject.io/)          |
+| QA               | Practice    | Selenium              | Open-source testing framework for web application automation, providing a suite of tools for browser automation.| [Selenium](https://www.selenium.dev/)           |
+| QA               | Practice    | Postman               | Collaboration platform for API development, testing, and documentation with support for automated testing.      | [Postman](https://www.postman.com/)             |
+| Software Architect | Beginner | Udemy                 | Courses covering software architecture fundamentals, design patterns, and architectural styles.                 | [Udemy](https://www.udemy.com/)                 |
+| Software Architect | Beginner | Coursera              | Online courses on software design, architecture, and system decomposition.                                        | [Coursera](https://www.coursera.org/)           |
+| Software Architect | Intermediate| Pluralsight         | Advanced courses on software architecture patterns, anti-patterns, and architectural decision making.             | [Pluralsight](https://www.pluralsight.com/)     |
+| Software Architect | Intermediate| IEEE Spectrum        | Articles and resources on software architecture, system design, and emerging technologies.                       | [IEEE Spectrum](https://spectrum.ieee.org/)     |
+| Software Architect | Practice    | Lucidchart            | Online diagramming tool for creating architecture diagrams, flowcharts, and system design visualizations.        | [Lucidchart](https://www.lucidchart.com/)       |
+| Software Architect | Practice    | Draw.io               | Free online diagramming tool for creating software architecture diagrams, flowcharts, and process diagrams.     | [Draw.io](https://www.draw.io/)                 |
+| ASP.NET Core     | Beginner    | Microsoft Learn       | Learning paths and modules covering ASP.NET Core fundamentals, web development, and MVC architecture.           | [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/aspnet) |
+| ASP.NET Core     | Intermediate| Pluralsight           | Advanced courses on ASP.NET Core development, RESTful APIs, and server-side application architecture.          | [Pluralsight](https://www.pluralsight.com/)     |
+| ASP.NET Core     | Intermediate| Udemy                 | Courses covering advanced topics in ASP.NET Core including Razor Pages, Entity Framework, and Identity.         | [Udemy](https://www.udemy.com/)                 |
+| ASP.NET Core     | Practice    | GitHub                | Hosting platform for version control and collaboration, essential for ASP.NET Core projects.                     | [GitHub](https://github.com/)                   |
+| ASP.NET Core     | Practice    | Docker                | Platform for containerizing and deploying ASP.NET Core applications for development and production environments.| [Docker](https://www.docker.com/)               |
+| C++              | Beginner    | LearnCPP              | Online tutorials covering C++ basics, object-oriented programming, and standard library.                         | [LearnCPP](https://www.learncpp.com/)           |
+| C++              | Beginner    | SoloLearn             | Interactive lessons for beginners to learn C++ programming language with quizzes and coding exercises.            | [SoloLearn](https://www.sololearn.com/Course/CPlusPlus/) |
+| C++              | Intermediate| Pluralsight           | Advanced courses on C++ programming, including memory management, templates, and concurrency.                   | [Pluralsight](https://www.pluralsight.com/)     |
+| C++              | Intermediate| Udemy                 | Courses covering advanced topics in C++ development such as STL, multithreading, and performance optimization.  | [Udemy](https://www.udemy.com/)                 |
+| C++              | Practice    | HackerRank            | Platform for practicing C++ coding skills through challenges and competitions.                                   | [HackerRank](https://www.hackerrank.com/)       |
+| C++              | Practice    | LeetCode              | Platform for practicing coding interview questions including problems related to C++ programming.               | [LeetCode](https://leetcode.com/)               |
+| Flutter          | Beginner    | Flutter.dev           | Official documentation and tutorials for learning Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop. | [Flutter](https://flutter.dev/)                |
+| Flutter          | Beginner    | Udacity               | Courses on Flutter development including building mobile applications with Dart programming language.          | [Udacity](https://www.udacity.com/)             |
+| Flutter          | Intermediate| Coursera              | Advanced courses on Flutter development, state management, and building production-ready applications.         | [Coursera](https://www.coursera.org/)           |
+| Flutter          | Intermediate| Udemy                 | Courses covering advanced topics in Flutter development such as animations, state management, and testing.      | [Udemy](https://www.udemy.com/)                 |
+| Flutter          | Practice    | Flutter Weekly       | Platform for accessing curated resources, articles, and tips for Flutter development.                            | [Flutter Weekly](https://flutterweekly.net/)    |
+| Flutter          | Practice    | GitHub                | Hosting platform for version control and collaboration, essential for Flutter projects.                          | [GitHub](https://github.com/)                   |
+| Cyber Security   | Beginner    | Cybrary               | Online courses covering introductory topics in cybersecurity including ethical hacking and network security.    | [Cybrary](https://www.cybrary.it/)             |
+| Cyber Security   | Beginner    | Coursera              | Online courses on cybersecurity fundamentals, cryptography, and security protocols.                               | [Coursera](https://www.coursera.org/)           |
+| Cyber Security   | Intermediate| Pluralsight           | Advanced courses on cybersecurity including penetration testing, threat detection, and incident response.       | [Pluralsight](https://www.pluralsight.com/)     |
+| Cyber Security   | Intermediate| SANS Institute        | Online training and certification courses in cybersecurity, digital forensics, and incident response.           | [SANS Institute](https://www.sans.org/)        |
+| Cyber Security   | Practice    | TryHackMe             | Platform for practicing cybersecurity skills through hands-on labs, challenges, and CTFs (Capture The Flags).  | [TryHackMe](https://tryhackme.com/)            |
+| Cyber Security   | Practice    | Hack The Box          | Platform for practicing penetration testing and cybersecurity skills through realistic scenarios and challenges.| [Hack The Box](https://www.hackthebox.eu/)      |
+| UX Design        | Beginner    | Coursera              | Online courses covering UX design fundamentals, user research, and prototyping tools.                             | [Coursera](https://www.coursera.org/)           |
+| UX Design        | Beginner    | Udemy                 | Courses on UX/UI design, wireframing, and prototyping tools such as Adobe XD and Sketch.                        | [Udemy](https://www.udemy.com/)                 |
+| UX Design        | Intermediate| Interaction Design Foundation | Online courses and articles covering advanced topics in UX design, usability testing, and design thinking.     | [Interaction Design Foundation](https://www.interaction-design.org/) |
+| UX Design        | Intermediate| Nielsen Norman Group | Resources on UX/UI design including articles, reports, and usability guidelines.                                 | [NN/g](https://www.nngroup.com/)               |
+| UX Design        | Practice    | Adobe XD              | Design tool for creating wireframes, prototypes, and user experiences for web and mobile applications.          | [Adobe XD](https://www.adobe.com/products/xd.html) |
+| UX Design        | Practice    | Sketch                | Design tool for creating user interfaces, wireframes, and interactive prototypes.                                 | [Sketch](https://www.sketch.com/)               |
+| React Native     | Beginner    | React Native Docs     | Official documentation for learning React Native, a framework for building native applications using React.     | [React Native](https://reactnative.dev/)       |
+| React Native     | Beginner    | Udemy                 | Courses covering basic concepts and building mobile applications with React Native.                               | [Udemy](https://www.udemy.com/)                 |
+| React Native     | Intermediate| Coursera              | Advanced courses on React Native development, navigation, and state management.                                    | [Coursera](https://www.coursera.org/)           |
+| React Native     | Intermediate| Pluralsight           | Advanced courses covering React Native application architecture, performance optimization, and debugging.       | [Pluralsight](https://www.pluralsight.com/)     |
+| React Native     | Practice    | Expo                  | Platform for building React Native apps with pre-built components and tools for development and deployment.     | [Expo](https://expo.dev/)                      |
+| React Native     | Practice    | GitHub                | Hosting platform for version control and collaboration, essential for React Native projects.                     | [GitHub](https://github.com/)                   |
+| Game Developer   | Beginner    | Unity Learn           | Learning platform for game development using Unity, including tutorials, projects, and certifications.         | [Unity Learn](https://learn.unity.com/)         |
+| Game Developer   | Beginner    | Coursera              | Online courses covering game development fundamentals, Unity engine, and 2D/3D game design.                      | [Coursera](https://www.coursera.org/)           |
+| Game Developer   | Intermediate| Pluralsight           | Advanced courses on game development covering Unity scripting, game mechanics, and multiplayer networking.      | [Pluralsight](https://www.pluralsight.com/)     |
+| Game Developer   | Intermediate| Udemy                 | Courses covering advanced topics in game development such as shader programming, AI, and physics in Unity.       | [Udemy](https://www.udemy.com/)                 |
+| Game Developer   | Practice    | GitHub                | Hosting platform for version control and collaboration, essential for game development projects.                  | [GitHub](https://github.com/)                   |
+| Game Developer   | Practice    | Unreal Engine Forums  | Online community and forums for discussing game development using Unreal Engine, sharing resources, and getting support. | [Unreal Engine Forums](https://forums.unrealengine.com/) |
+| Technical Writer | Beginner    | Udemy                 | Courses covering technical writing fundamentals, document design, and writing style guides.                      | [Udemy](https://www.udemy.com/)                 |
+| Technical Writer | Beginner    | Google's Technical Writing Courses | Free online courses on technical writing and documentation provided by Google.                                | [Google's Technical Writing Courses](https://developers.google.com/tech-writing) |
+| Technical Writer | Intermediate| Coursera              | Advanced courses on technical writing covering API documentation, user guides, and technical communication.     | [Coursera](https://www.coursera.org/)           |
+| Technical Writer | Intermediate| Society for Technical Communication | Resources, webinars, and community for technical writers including best practices and career development. | [STC](https://www.stc.org/)                   |
+| Technical Writer | Practice    | GitHub                | Hosting platform for version control and collaboration, essential for technical writing projects.                | [GitHub](https://github.com/)                   |
+| Technical Writer | Practice    | Markdown Guide        | Comprehensive guide and tutorials on Markdown syntax for creating documentation and README files.                | [Markdown Guide](https://www.markdownguide.org/)|
+| Data Structures & Algorithms | Beginner | HackerRank         | Practice problems and tutorials for learning data structures and algorithms through coding challenges.        | [HackerRank](https://www.hackerrank.com/)       |
+| Data Structures & Algorithms | Beginner | LeetCode           | Platform for practicing coding interview questions including problems related to data structures and algorithms.| [LeetCode](https://leetcode.com/)               |
+| Data Structures & Algorithms | Intermediate| GeeksforGeeks    | Articles, tutorials, and practice problems on data structures, algorithms, and competitive programming.       | [GeeksforGeeks](https://www.geeksforgeeks.org/)|
+| Data Structures & Algorithms | Intermediate| CodeChef           | Competitive programming platform offering coding contests, practice problems, and peer discussions.           | [CodeChef](https://www.codechef.com/)           |
+| Data Structures & Algorithms | Practice    | Exercism          | Platform for practicing coding exercises in various programming languages with mentorship and feedback.       | [Exercism](https://exercism.io/)                |
+| Data Structures & Algorithms | Practice    | HackerEarth       | Platform for practicing coding skills, participating in coding competitions, and improving technical skills. | [HackerEarth](https://www.hackerearth.com/)     |
+| MLOps             | Beginner    | Coursera              | Online courses covering machine learning operations (MLOps) fundamentals including model deployment and monitoring. | [Coursera](https://www.coursera.org/)           |
+| MLOps             | Beginner    | edX                   | Courses on MLOps practices, tools, and methodologies offered by universities and institutions worldwide.       | [edX](https://www.edx.org/)                     |
+| MLOps             | Intermediate| Pluralsight           | Advanced courses on MLOps covering model management, orchestration, and pipeline automation.                    | [Pluralsight](https://www.pluralsight.com/)     |
+| MLOps             | Intermediate| TensorFlow Extended   | End-to-end platform for deploying and managing machine learning models in production.                            | [TensorFlow Extended](https://www.tensorflow.org/tfx) |
+| MLOps             | Practice    | Kubeflow              | Open-source platform for deploying, scaling, and managing machine learning models on Kubernetes.                  | [Kubeflow](https://www.kubeflow.org/)          |
+| MLOps             | Practice    | MLflow                | Open-source platform for managing the end-to-end machine learning lifecycle including experimentation, reproducibility, and deployment. | [MLflow](https://mlflow.org/)                 |
+
+**PS:** For a comprehensive roadmap on various career paths in software development, visit [Roadmap.sh](https://roadmap.sh/).
+
+### Contributing:
+Contributions are welcome! If you know of any additional resources that could benefit others in their journey in IT, Programming, and Technology, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b new-resource`).
+3. Add your resource to the Markdown file.
+4. Commit your changes (`git commit -am 'Add new resource: [Name]'`).
+5. Push to the branch (`git push origin new-resource`).
+6. Create a new Pull Request.
+
+### License:
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
